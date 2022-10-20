@@ -48,11 +48,11 @@
 					<li <?= sub_menu_active(@$menu, @$sub_menu, 'admin', 'migrasi'); ?>><a href="<?php echo base_url(); ?>index.php/admin/migrasi"><i class="fa fa-circle-o"></i> Migrasi Member/ Pindah Parent</a></li>
 				</ul>
 			</li>
-			<li class="<?= (@$menu == 'tree_view') ? 'active' : ""; ?>">
+			<!-- <li class="<?= (@$menu == 'tree_view') ? 'active' : ""; ?>">
 				<a href="<?php echo base_url(); ?>index.php/admin/tree_view/">
 					<i class="fa fa-users"></i> <span>Tree View</span>
 				</a>
-			</li>
+			</li> -->
 		</ul>
 	</section>
 	<!-- /.sidebar -->
