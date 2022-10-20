@@ -22,6 +22,7 @@ Terdapat beberapa fitur didalamnya:
 * Ketika migrasi member, Member ID akan otomatis generate secara random
 
 5. Tree View
+Untuk Melihat Tree View, dapat diakses melalui menu Admin Panel > Registrasi Member. Lalu tekan tombol Tree View
 ![image](https://user-images.githubusercontent.com/37956515/197029905-c3ede2a4-3c71-416f-9bf7-ca86cd65fdaf.png)
 
 
@@ -33,3 +34,5 @@ p: 12345678
 - User
 u: check username di Admin
 p: 1234
+
+Untuk Level member Max di Level 4.
